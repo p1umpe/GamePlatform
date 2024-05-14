@@ -1,0 +1,20 @@
+D:\Программирование\Game\Platform Game\obj\Debug\Platform Game.csproj.AssemblyReference.cache
+D:\Программирование\Game\Platform Game\obj\Debug\Platform_Game.Form1.resources
+D:\Программирование\Game\Platform Game\obj\Debug\Platform_Game.Properties.Resources.resources
+D:\Программирование\Game\Platform Game\obj\Debug\Platform Game.csproj.GenerateResource.cache
+D:\Программирование\Game\Platform Game\obj\Debug\Platform Game.csproj.CoreCompileInputs.cache
+D:\Программирование\Game\Platform Game\bin\Debug\Platform Game.exe.config
+D:\Программирование\Game\Platform Game\bin\Debug\Platform Game.exe
+D:\Программирование\Game\Platform Game\bin\Debug\Platform Game.pdb
+D:\Программирование\Game\Platform Game\obj\Debug\Platform Game.exe
+D:\Программирование\Game\Platform Game\obj\Debug\Platform Game.pdb
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Platform Game\bin\Debug\Platform Game.exe.config
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Platform Game\bin\Debug\Platform Game.exe
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Platform Game\bin\Debug\Platform Game.pdb
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Platform Game\obj\Debug\Platform Game.csproj.AssemblyReference.cache
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Platform Game\obj\Debug\Platform_Game.Form1.resources
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Platform Game\obj\Debug\Platform_Game.Properties.Resources.resources
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Platform Game\obj\Debug\Platform Game.csproj.GenerateResource.cache
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Platform Game\obj\Debug\Platform Game.csproj.CoreCompileInputs.cache
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Platform Game\obj\Debug\Platform Game.exe
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Platform Game\obj\Debug\Platform Game.pdb
